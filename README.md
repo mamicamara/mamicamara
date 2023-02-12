@@ -1,7 +1,22 @@
-### Hi there 👋
+<h1>Hi, I'm Mami! <br/> </h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+ -
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+ -
+- <b>PowerShell</b> 
+ -
+- <b>C# (.NET Desktop Applications)</b>
+ -
+- <b>Python</b>
+ -
+
+<h2>📺 Popular YouTube Videos</h2>
 
 <!--
-**mamicamara/mamicamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
