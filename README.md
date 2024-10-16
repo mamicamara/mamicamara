@@ -2,10 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice </b>
- -
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
- -
+- <b>Java Applications</b>
+ -[Appointment Scheduling Application](https://github.com/mamicamara/AppointmentSchedulingApp.git)
+
 - <b>Python</b>
  -[Package Delivery Application ( Data structures and Algorithms)](https://github.com/mamicamara/Truck-routing-progam---Data-Structure-and-algorithyms-projecr-.git)
 
