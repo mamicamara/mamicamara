@@ -4,16 +4,16 @@
 
 - <b>Java Applications</b>
 
-  -[Appointment Scheduling Application](https://github.com/mamicamara/AppointmentSchedulingApp.git)
+  [Appointment Scheduling Application](https://github.com/mamicamara/AppointmentSchedulingApp.git)
   
-  -[Inventory Managment Application](https://github.com/mamicamara/Inventory-Managment-App-.git)
+  [Inventory Managment Application](https://github.com/mamicamara/Inventory-Managment-App-.git)
 - <b>Python</b>
 
- -[Package Delivery Application ( Data structures and Algorithms)](https://github.com/mamicamara/Truck-routing-progam---Data-Structure-and-algorithyms-projecr-.git)
+  [Package Delivery Application ( Data structures and Algorithms)](https://github.com/mamicamara/Truck-routing-progam---Data-Structure-and-algorithyms-projecr-.git)
 
 - <b>C++</b>
 
-[AI surveyy application](https://github.com/mamicamara/AI-survey-program-political-leaning-FE.git)
+  [AI surveyy application](https://github.com/mamicamara/AI-survey-program-political-leaning-FE.git)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
