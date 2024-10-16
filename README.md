@@ -5,6 +5,7 @@
 - <b>Java Applications</b>
 
   -[Appointment Scheduling Application](https://github.com/mamicamara/AppointmentSchedulingApp.git)
+  
   -[Inventory Managment Application](https://github.com/mamicamara/Inventory-Managment-App-.git)
 - <b>Python</b>
 
