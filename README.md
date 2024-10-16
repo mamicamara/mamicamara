@@ -3,8 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java Applications</b>
-   -[Appointment Scheduling Application](https://github.com/mamicamara/AppointmentSchedulingApp.git)
-   -[Inventory Managment Application](https://github.com/mamicamara/Inventory-Managment-App-.git)
+  -[Appointment Scheduling Application](https://github.com/mamicamara/AppointmentSchedulingApp.git)
+  -[Inventory Managment Application](https://github.com/mamicamara/Inventory-Managment-App-.git)
 - <b>Python</b>
 
  -[Package Delivery Application ( Data structures and Algorithms)](https://github.com/mamicamara/Truck-routing-progam---Data-Structure-and-algorithyms-projecr-.git)
