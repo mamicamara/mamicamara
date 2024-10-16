@@ -7,7 +7,7 @@
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
  -
 - <b>Python</b>
- -[Package Delivery Application ( Data structures and Algorithms)]([)](https://github.com/mamicamara/Truck-routing-progam---Data-Structure-and-algorithyms-projecr-.git)
+ -[Package Delivery Application ( Data structures and Algorithms)](https://github.com/mamicamara/Truck-routing-progam---Data-Structure-and-algorithyms-projecr-.git)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
