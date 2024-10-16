@@ -5,12 +5,14 @@
 - <b>Java Applications</b>
 
  -[Appointment Scheduling Application](https://github.com/mamicamara/AppointmentSchedulingApp.git)
+ 
  -[Inventory Managment Application](https://github.com/mamicamara/Inventory-Managment-App-.git)
 - <b>Python</b>
 
  -[Package Delivery Application ( Data structures and Algorithms)](https://github.com/mamicamara/Truck-routing-progam---Data-Structure-and-algorithyms-projecr-.git)
 
 - <b>C++</b>
+
 [AI surveyy application](https://github.com/mamicamara/AI-survey-program-political-leaning-FE.git)
 
 <!--
